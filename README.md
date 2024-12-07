@@ -1,9 +1,8 @@
 ### Eae! 👋 Meu nome é Alisson.
-#### Desenvolvedor web, apaixonado por programação.
-![Desenvolvedor web, apaixonado por programação.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+#### (Será que ainda tem café?)
 
-Estudante de programação
+Programador Full-Stack MERN
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+Skills: MONGO / EXPRESS / REACT / NODE / JS / TAILWIND / TS / HTML / CSS
 
-- 🔭 I’m currently working on this page. 
+- 🔭 Trabalhando num web app de ferramentas de organização : <a href="https://github.com/AllyssinXD/anout">Anout</a> 
