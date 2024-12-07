@@ -11,6 +11,7 @@ Programador Full-Stack MERN
   <img align="center" width="40" alt="typescript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg"/>
   <img align="center" width="40" alt="typescript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg"/>
   <img style="border: 1px solid white" align="center" width="40" alt="typescript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg"/>
+  <img style="border: 1px solid white" align="center" width="40" alt="typescript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
 </div>
 
 #### 🌱 Alvos de novas habilidades : 
