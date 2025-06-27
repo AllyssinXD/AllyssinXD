@@ -22,7 +22,7 @@ Programador desde os **10 anos**, apaixonado por tecnologia, curioso por naturez
 
 #### 🎨 Estilização
 <div style="display: inline_block">
-  <img align="left" width="40" alt="TailwindCSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg"/>
+  <img align="left" width="40" alt="TailwindCSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg"/>
   <img align="left" width="40" alt="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg"/>
 </div>
 
