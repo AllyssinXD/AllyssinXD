@@ -29,8 +29,8 @@ Programador desde os **10 anos**, apaixonado por tecnologia, curioso por naturez
 
 ---
 
-### 🚀 Projeto atual:;
-🛠️ Desenvolvendo um site inteligente para minha futura agencia de criação de software [DynamousSoftware](https://github.com/AllyssinXD/dynamous-software-website)
+### 🚀 Projeto atual:
+🛠️ Desenvolvendo um site inteligente para minha futura agencia de criação de software [Dynamous Software](https://github.com/AllyssinXD/dynamous-software-website)
 
 ---
 
