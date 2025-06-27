@@ -11,10 +11,12 @@ Programador desde os **10 anos**, apaixonado por tecnologia, curioso por naturez
   <img align="center" width="40" alt="TypeScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"/>
   <img align="center" width="40" alt="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg"/>
   <img align="center" width="40" alt="CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg"/>
-  <img align="center" width="40" alt="MongoDB" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg"/>
   <img align="center" width="40" alt="Express" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg"/>
   <img align="center" width="40" alt="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
-  <img align="center" width="40" alt="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgree/postgree-original.svg"/>
+  <img align="center" width="40" alt="NextJs" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"/>
+  <img align="center" width="40" alt="MongoDB" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg"/>
+  <img align="center" width="40" alt="PostgreSQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"/>
+  <img align="center" width="40" alt="MySQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"/>
 </div>
 
 ---
@@ -34,7 +36,7 @@ Programador desde os **10 anos**, apaixonado por tecnologia, curioso por naturez
 
 ### 📫 Vamos conversar?
 Entre em contato comigo por aqui:
-- 📧 Email: *seu-email@gmail.com*  
+- 📧 Email: *alissondev.contato@gmail.com*  
 - 💼 LinkedIn: [linkedin.com/in/alisson-silva-20967836b/](https://linkedin.com/in/alisson-silva-20967836b/)  
 - 🌐 Portfólio: [dynamoussoftware.com](https://www.dynamoussoftware.com)
 
