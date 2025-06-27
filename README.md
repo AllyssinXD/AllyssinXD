@@ -1,24 +1,43 @@
 ### Eae! 👋 Meu nome é Alisson.
 #### (Será que ainda tem café?)
 
-Programador Full-Stack MERN
+Programador desde os **10 anos**, apaixonado por tecnologia, curioso por natureza e sempre em busca de novos desafios.
 
-<h4>💻 Habilidades</h4>
+---
+
+### 💻 Tecnologias que domino:
 <div style="display: inline_block">
-<img align="center" width="40" alt="javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
-<img align="center" width="40" alt="typescript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"/>
-<img align="center" width="40" alt="typescript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg"/>
-  <img align="center" width="40" alt="typescript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg"/>
-  <img align="center" width="40" alt="typescript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg"/>
-  <img style="border: 1px solid white" align="center" width="40" alt="typescript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg"/>
-  <img style="border: 1px solid white" align="center" width="40" alt="typescript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
+  <img align="center" width="40" alt="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
+  <img align="center" width="40" alt="TypeScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"/>
+  <img align="center" width="40" alt="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg"/>
+  <img align="center" width="40" alt="CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg"/>
+  <img align="center" width="40" alt="MongoDB" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg"/>
+  <img align="center" width="40" alt="Express" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg"/>
+  <img align="center" width="40" alt="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
+  <img align="center" width="40" alt="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgree/postgree-original.svg"/>
 </div>
 
-#### 🌱 Alvos de novas habilidades : 
-- Front-end: Vue.js, Angular
-- Back-end: Django, Spring-boot
-- Banco de Dados: MYSQL e MariaDB
+---
 
+### 📚 Em constante aprendizado:
+- Frameworks Front-end: **Vue.js**, **Next.js**
+- Back-end: **Django**, **Spring Boot**
+- Bancos de dados relacionais: **MySQL**, **MariaDB**
+- Arquitetura de Software & Boas Práticas
 
-🔭 Trabalhando num web app de ferramentas de organização : <a href="https://github.com/AllyssinXD/anout">Anout</a> <br/>
-🔍 Estudando arquitetura de Software
+---
+
+### 🚀 Projeto atual:;
+🛠️ Desenvolvendo um site inteligente para minha futura agencia de criação de software [DynamousSoftware](https://github.com/AllyssinXD/dynamous-software-website)
+
+---
+
+### 📫 Vamos conversar?
+Entre em contato comigo por aqui:
+- 📧 Email: *seu-email@gmail.com*  
+- 💼 LinkedIn: [linkedin.com/in/alisson-silva-20967836b/](https://linkedin.com/in/alisson-silva-20967836b/)  
+- 🌐 Portfólio: [dynamoussoftware.com](https://www.dynamoussoftware.com)
+
+---
+
+> _"Programar é transformar ideias em realidade com lógica e café."_ ☕
